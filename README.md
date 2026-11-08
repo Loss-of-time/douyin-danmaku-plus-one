@@ -1,5 +1,3 @@
-> 临时独立发布仓库，便于直接安装/分享；长期维护在 [loss-userscripts](https://github.com/Loss-of-time/loss-userscripts)。
-
 # 抖音直播画面弹幕 +1
 
 Tampermonkey 用户脚本。在 `live.douyin.com` 直播间，鼠标移到视频画面上飘过的弹幕上，旁边会弹出 `+1` 按钮；点一下就把这条弹幕原样发出去，省掉“看到一句想复读、手动选中复制、粘贴发送”的步骤。
